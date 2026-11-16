@@ -39,7 +39,7 @@ Each day brings one unsolved problem from the Codeforces problemset, picked by r
 
 | Platform | Repository |
 |----------|------------|
-| LeetCode | [LeetSj](https://github.com/Sayandip-Jana-1018/LeetSj) |
+| LeetCode | [LeetCodeSj](https://github.com/Sayandip-Jana-1018/LeetCodeSj) |
 | Codeforces | **CodeforcesSj** (you are here) |
 | AtCoder | [AtCoderSj](https://github.com/Sayandip-Jana-1018/AtCoderSj) |
 | CodeChef | [CodeChefSj](https://github.com/Sayandip-Jana-1018/CodeChefSj) |

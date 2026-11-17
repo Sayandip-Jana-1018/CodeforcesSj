@@ -25,6 +25,7 @@ Each day brings one unsolved problem from the Codeforces problemset, picked by r
 | # | Date | Problem | Rating | Tags | Solution |
 |---|------|---------|--------|------|----------|
 | 1 | 2026-11-16 | [1881D · Divide and Equalize](https://codeforces.com/problemset/problem/1881/D) | 1300 | math, number theory | [Guide + Java](./1881D-divide-and-equalize) |
+| 2 | 2026-11-17 | [2195D · Absolute Cinema](https://codeforces.com/problemset/problem/2195/D) | 1300 | math | [Guide + Java](./2195D-absolute-cinema) |
 <!-- SOLUTIONS:END -->
 
 ## Folder layout
